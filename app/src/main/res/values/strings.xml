@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="title_activity_maps">Fitness Tracker</string>
+    <string name="default_text" />
+    <string name="start_pedometer">Start Pedometer</string>
+    <string name="monitor_heartbeat_rate">Monitor Heartbeat Rate</string>
+    <string name="stop_pedometer">Stop Pedometer</string>
+</resources>
