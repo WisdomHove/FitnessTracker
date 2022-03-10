@@ -5,4 +5,16 @@
     <string name="start_pedometer">Start Pedometer</string>
     <string name="monitor_heartbeat_rate">Monitor Heartbeat Rate</string>
     <string name="stop_pedometer">Stop Pedometer</string>
+    <string name="bmi_calculator" />
+    <string name="imperial_units" />
+    <string name="metric_units" />
+    <string name="height" />
+    <string name="cm" />
+    <string name="ft" />
+    <string name="in" />
+    <string name="weight" />
+    <string name="kg" />
+    <string name="lbs" />
+    <string name="calculate" />
+    <string name="bmi" />
 </resources>

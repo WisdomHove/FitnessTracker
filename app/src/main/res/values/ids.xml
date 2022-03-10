@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="action_settings" type="id" />
+    <item name="activity_man_weightkgs" type="id" />
+    <item name="activity_man_heightcm" type="id" />
+    <item name="activity_man_weightlbs" type="id" />
+    <item name="activity_man_heightfeet" type="id" />
+    <item name="activity_man_heightinches" type="id" />
+    <item name="activity_man_calculate" type="id" />
+    <item name="activity_man_toggleunits" type="id" />
+    <item name="activity_man_bmi" type="id" />
+    <item name="activity_man_category" type="id" />
+    <item name="activity_man_resultcard" type="id" />
+    <item name="tv_steps" type="id" />
+    <item name="btn_start" type="id" />
+    <item name="btn_stop" type="id" />
+    <item name="btn_hb" type="id" />
+    <item name="btn_bmi" type="id" />
+    <item name="map" type="id" />
 </resources>

@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/FitnessTracker/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FitnessTracker/app/src/main/res/layout/activity_man.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FitnessTracker/app/src/main/res/layout/activity_maps.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/FitnessTracker/app/src/main/res/layout/activity_monitor.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FitnessTracker/app/src/main/res/layout/thermometer_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/User/AndroidStudioProjects/FitnessTracker/app/src/main/res/menu/menu_main.xml" value="0.25" />
       </map>
     </option>

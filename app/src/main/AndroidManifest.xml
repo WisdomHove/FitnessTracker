@@ -46,6 +46,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".HeartRateMonitor"/>
+        <activity android:name=".MainActivity"/>
     </application>
 
 </manifest>
