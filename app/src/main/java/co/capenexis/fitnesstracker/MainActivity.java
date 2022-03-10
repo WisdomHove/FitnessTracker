@@ -37,10 +37,10 @@ public class MainActivity extends AppCompatActivity {
 
         weightLbsEditText = findViewById(R.id.activity_main_weightlbs);
         heightFtEditText = findViewById(R.id.activity_main_heightfeet);
-        heightInEditText = findViewById(R.id.activity_man_heightinches);
+        heightInEditText = findViewById(R.id.activity_main_heightinches);
 
         calculateButton = findViewById(R.id.activity_main_calculate);
-        toggleUnitsButton = findViewById(R.id.activity_man_toggleunits);
+        toggleUnitsButton = findViewById(R.id.activity_main_toggleunits);
 
         bmiTextView = findViewById(R.id.activity_main_bmi);
         categoryTextView = findViewById(R.id.activity_main_category);
